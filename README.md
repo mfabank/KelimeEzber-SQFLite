@@ -1,16 +1,6 @@
-# kelimeezber_sqflite
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/53713274/123439079-09dd0a80-d5da-11eb-99ee-e0f37a657cb9.jpg)
+![2](https://user-images.githubusercontent.com/53713274/123439084-0b0e3780-d5da-11eb-82a4-ca420edb248a.jpg)
+![3](https://user-images.githubusercontent.com/53713274/123439087-0b0e3780-d5da-11eb-871c-175f2eea4022.jpg)
+![4](https://user-images.githubusercontent.com/53713274/123439088-0ba6ce00-d5da-11eb-9890-79bdd05007c9.jpg)
+![5](https://user-images.githubusercontent.com/53713274/123439090-0c3f6480-d5da-11eb-9ab1-8d480c7fc4c8.jpg)
+![6](https://user-images.githubusercontent.com/53713274/123439091-0c3f6480-d5da-11eb-9a76-72b674e5695d.jpg)
